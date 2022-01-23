@@ -1,0 +1,1 @@
+Local=(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path="E:\Unreal Engine\ENGINEVERSIONAGNOSTICUSERDIR\DerivedDataCache", EditorOverrideSetting=LocalDerivedDataCache)
