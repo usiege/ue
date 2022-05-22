@@ -58,11 +58,18 @@ Globel mapper 软件下载在第一个参考视频简介中，第2个参考视�
 > https://www.openstreetmap.org
 
 
-### Houdini 对 OSM 数据进行城市建模
+- CityEngine 导入 OSM数据（这个只是建模）
+
+> https://blog.csdn.net/ZJ_____W/article/details/105745447
+
+
+- Houdini 对 OSM 数据进行城市建模（可导入到UE）
+
 
 > https://www.sidefx.com
 
-- 城市建模
+
+- 城市建模示例
 
 > https://www.bilibili.com/video/BV1F64y187yc?spm_id_from=333.337.search-card.all.click
 
