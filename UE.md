@@ -13,7 +13,7 @@ in BaseEngine.ini
 ```
 Local=(Type=FileSystem, ReadOnly=false, Clean=false, Flush=false, PurgeTransient=true, DeleteUnused=true, UnusedFileAge=34, FoldersToClean=-1, Path="E:\Unreal Engine\ENGINEVERSIONAGNOSTICUSERDIR\DerivedDataCache", EditorOverrideSetting=LocalDerivedDataCache)
 ```
--> 
+->
 ```
 Path="%GAMEDIR%DerivedDataCache"
 ```
@@ -27,6 +27,16 @@ Path="%GAMEDIR%DerivedDataCache"
 dashboard.
 
 ## Tools
+
+## Bridge
+
+有一些免费材质
+
+
+## Mixer
+
+材质合成软件，
+
 
 ### World Creator
 
@@ -63,7 +73,7 @@ Globel mapper 软件下载在第一个参考视频简介中，第2个参考视�
 > https://blog.csdn.net/ZJ_____W/article/details/105745447
 
 
-- Houdini 对 OSM 数据进行城市建模（可导入到UE）
+### Houdini 对 OSM 数据进行城市建模（可导入到UE）
 
 
 > https://www.sidefx.com
@@ -72,7 +82,7 @@ Globel mapper 软件下载在第一个参考视频简介中，第2个参考视�
 - 城市建模示例
 
 > https://www.bilibili.com/video/BV1F64y187yc?spm_id_from=333.337.search-card.all.click
-
+> https://www.youtube.com/watch?v=8YDWj0-QFVQ
 
 ### UE4虚幻引擎城市建筑包
 
@@ -102,5 +112,3 @@ Cesium for Unreal插件解锁了虚幻引擎的3D地理空间生态系统。它�
 ### cesium ion
 
 > https://cesium.com/ion
-
-
