@@ -2,8 +2,34 @@
 
 - [UE](./UE.md)
 
-
 ## 2023
+
+
+
+### 04.21
+
+- [UE4镜头动画制作流程](https://www.bilibili.com/video/BV1Nf4y1Y7jX)
+- [UE4录制游戏过程动画并渲染](https://www.bilibili.com/video/BV1Zy4y1j7xF)
+
+### 03.30
+
+- [How to build google street map into UE](./note/google-3d-ue.md)
+
+### 03.29
+
+- [谷歌地球](https://www.google.com/intl/zh-HK/earth/)
+
+
+### 03.18
+
+- [人物模型下载](https://www.mixamo.com)
+
+
+- [创建一个巨大的开放世界地图](https://www.bilibili.com/video/BV14Y411b7Gn)
+
+- [Houdini与UE联动](https://www.bilibili.com/video/BV1LU4y1U7Xs)
+
+- [Houdini创建建筑、街道](https://www.sidefx.com/tutorials/city-building-with-osm-data/)
 
 ### 02.27
 
@@ -21,18 +47,17 @@
 
 - [如何设置夜晚灯光](./note/light.md)
 
-
 ### 05.23
 
 - [使用OSM数据构建城市资产City Building with OSM Data](https://www.vfxforce.cn/archives/12274)
 
 - [CITY BUILDING WITH OSM DATA](https://www.sidefx.com/tutorials/city-building-with-osm-data/)
 
-- [如何把google 3d街景导入UE4](https://www.bilibili.com/video/BV1dK411w7kX?spm_id_from=333.337.search-card.all.click)
+- [如何把google 3d街景导入UE4](https://www.bilibili.com/video/BV1dK411w7kX)
 
 ### 05.22
 
-- [听风元宇宙](./DRAMA.MD)
+- [~~听风元宇宙~~](./DRAMA.MD)
 
 ### 04.29
 
