@@ -5,7 +5,9 @@
 ## 2023
 
 
+### 08.07
 
+- [UE5建模工具](https://www.bilibili.com/video/BV1Vs4y1d785)
 ### 04.21
 
 - [UE4镜头动画制作流程](https://www.bilibili.com/video/BV1Nf4y1Y7jX)
